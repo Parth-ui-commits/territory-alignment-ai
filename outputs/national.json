@@ -1,0 +1,13 @@
+{
+  "reps": 42,
+  "area_managers": 6,
+  "customers": 2244,
+  "unassigned_customers": 0,
+  "potential_lakh": 12874.1,
+  "network_utilization": 0.934,
+  "util_spread_across_AMs": 0.039,
+  "potential_per_rep_spread_across_AMs": 19.7,
+  "overloaded_reps": 0,
+  "underloaded_reps": 0,
+  "travel_km": 8440
+}

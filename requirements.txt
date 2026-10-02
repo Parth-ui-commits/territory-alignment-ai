@@ -1,0 +1,12 @@
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.3
+shapely>=2.0
+folium>=0.15
+streamlit>=1.35
+plotly>=5.20
+networkx>=3.0
+pytest>=7.0
+# optional (LLM narrative layer): anthropic>=0.40
+tabulate>=0.9

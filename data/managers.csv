@@ -1,0 +1,8 @@
+mgr_id,role,region,reports_to,name
+AM01,Area Manager,Delhi NCR,NM01,Imran Khan
+AM02,Area Manager,Mumbai,NM01,Farhan Gupta
+AM03,Area Manager,Bengaluru,NM01,Neha Chatterjee
+AM04,Area Manager,Hyderabad,NM01,Varun Patil
+AM05,Area Manager,Chennai,NM01,Riya Rao
+AM06,Area Manager,Kolkata,NM01,Sanjay Singh
+NM01,National Manager,India,,National Head

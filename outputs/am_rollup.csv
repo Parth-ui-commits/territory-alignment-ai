@@ -1,0 +1,7 @@
+am,am_name,region,reps,customers,unassigned_customers,pins,potential_lakh,workload_hours,capacity_hours,utilization,util_std,potential_per_rep,potential_ratio_std,overloaded,underloaded,travel_km
+AM01,Imran Khan,Delhi NCR,8,423,0,110,2308.5,970.5,1055.0,0.92,0.052,288.6,0.127,0,0,1785.0
+AM02,Farhan Gupta,Mumbai,8,419,0,111,2519.9,1043.5,1095.0,0.953,0.036,315.0,0.128,0,0,1495.0
+AM03,Neha Chatterjee,Bengaluru,7,369,0,111,2048.4,898.6,935.0,0.961,0.011,292.6,0.123,0,0,1474.0
+AM04,Varun Patil,Hyderabad,7,378,0,106,2095.6,892.6,970.0,0.92,0.061,299.4,0.109,0,0,1330.0
+AM05,Riya Rao,Chennai,6,315,0,95,1816.8,751.8,870.0,0.864,0.015,302.8,0.111,0,0,1116.0
+AM06,Sanjay Singh,Kolkata,6,340,0,97,2084.9,818.6,830.0,0.986,0.008,347.5,0.108,0,0,1240.0
